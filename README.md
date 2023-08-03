@@ -1,2 +1,2 @@
-# dice
-Dice game 
+# Dice Game
+Generates random dice values
